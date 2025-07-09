@@ -3,7 +3,9 @@
 
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width="300" height="250" />
 
-### Technologies I learned in my degree studies.
+### 🎓 Software Engineer, graduated cum laude from SCE – Sami Shamoon College of Engineering.
+💻 Full Stack Developer specializing in React, Node.js, Python, and MongoDB, with hands-on experience in modern web technologies.
+🚀 Passionate about building real-world applications using Next.js, Prisma, Supabase, and more – always learning and evolving.
 
 <p align="left">
 <a  href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
